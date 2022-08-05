@@ -7,7 +7,7 @@
         "dev-start": "ts-node-dev ./src/index.ts",
         "migrations": "ts-node-dev ./src/data/migrations.ts"
     },
-    "author": "Labenu",
+    "author": "",
     "license": "ISC",
     "dependencies": {
         "@types/bcryptjs": "^2.4.2",
