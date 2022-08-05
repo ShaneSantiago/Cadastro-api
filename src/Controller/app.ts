@@ -14,6 +14,7 @@ app.get("/", (req:Request, res: Response) => {
 const server = app.listen(process.env.PORT || 3003, ()=>{
     if(server){
         const address = server.address() as AddressInfo
+        console.log(`Server is runnig in http://localhost ${address.port}`)
     } else {
         console.error(`Failura upon starting server`)
     }
