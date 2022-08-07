@@ -2,7 +2,7 @@
 
  
 <!-- PROJECT TITLE -->
-<h1 align='center'id="top"> :rocket: == Sistema de cadastro de alunos == :rocket: </h1>
+<h1 align='center'id="top"> :rocket: == Sistema de cadastro == :rocket: </h1>
 
 
 <!-- PROJECT SOBRE -->
